@@ -1,0 +1,35 @@
+body {
+    background-color:  rgb(197, 145, 247);
+}
+
+h1 {
+    display: flex;
+    justify-content: center;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: #ffdf2c;
+    padding-left: 12%;
+    padding-right: 12%;
+}
+
+
+.img1 {
+    height: 22%;
+    width: 22%;
+    float: left;
+    margin-right: 15%;
+    padding-left: 20%;
+}
+
+.img2 {
+    height: 22%;
+    width: 22%;
+    float: left;
+}
+
+.t {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.texto {
+    padding-bottom: 20%;
+}

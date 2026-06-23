@@ -13,3 +13,9 @@ p {
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     padding-left: 1%;
 }
+
+h2 {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serifs;
+    padding-left: 2%;
+    color: #ffdf2c;
+}
