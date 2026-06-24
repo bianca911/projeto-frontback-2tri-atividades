@@ -12,24 +12,57 @@ h1 {
 }
 
 
+.imagens {
+    display: flex;
+    justify-content: center;
+    gap: 5%;
+}
+
+.img4 {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.img3 {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
 .img1 {
-    height: 22%;
-    width: 22%;
-    float: left;
-    margin-right: 15%;
-    padding-left: 20%;
+    width: 100%;
+    max-width: 250px;
+    height: auto;
 }
 
 .img2 {
-    height: 22%;
-    width: 22%;
-    float: left;
+    width: 100%;
+    max-width: 400px;
+    height: auto;
 }
 
 .t {
     font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
 }
 
-.texto {
-    padding-bottom: 20%;
+.t2 {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+}
+
+h2 {
+    display: flex;
+    justify-content: center;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: #ffdf2c;
+    padding-left: 12%;
+    padding-right: 12%;
+}
+
+.a {
+    display: flex;
+    justify-content: center;
+    gap: 20%;
 }
